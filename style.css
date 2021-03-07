@@ -1,0 +1,28 @@
+body {
+    margin:0px;
+    padding-top:800px;
+    color:forestgreen;
+}
+.profile{
+    width:250px;
+    height:250px;
+    margin-bottom:50px;
+    border-radius:50%;
+}
+#welcome {
+    position:absolute;
+    height:600px;
+    color:aqua;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    top:0px;
+    background:linear-gradient(#fc7303 0%,#ed3737 100%);
+    width:90%;
+    height:90%;
+}
+.welcome {
+    position:relative;
+    text-align:center;
+    vertical-align:middle;
+}
